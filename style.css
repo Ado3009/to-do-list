@@ -1,0 +1,51 @@
+body{
+  background-color:  #ffccff;
+}
+
+h2{
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  align-items: center;
+  font-size: 25px;
+  
+}
+
+.inputLabel{
+  height: 20px;
+  width: 400px;
+  margin-left: 40%;
+  margin-top: 80px;
+  border: none;
+  padding: 5px;
+}
+
+button{
+  width: 70px;
+  height: 30px;
+  border: none;
+
+}
+
+input:hover{
+  background-color: lightblue;
+}
+
+
+button:hover{
+  background-color: lightblue;
+
+}
+
+.novi{
+  height: 20px;
+  width: 400px;
+  margin-left: 40%;
+  margin-top: 5px;
+  border: 1px solid red;
+  padding: 3px;
+  background-color: lightblue;
+  border: none;
+  text-transform: capitalize;
+  cursor: pointer;
+}
